@@ -10,4 +10,4 @@ The frontend requires npm and node js to work. In the project directory, you can
 
 The frontend server runs on port 8081. In case of conflict with other local services, you can change it in the package.json file.
 
-Name of OS/App/hardware components you may take from official cpe dictionary. Just use grep ;)
+Name of OS/App/hardware components you may take from official cpe dictionary from https://nvd.nist.gov/products/cpe. Just use grep ;)
